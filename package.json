@@ -1,0 +1,26 @@
+{
+  "name": "todo-react-firebase",
+  "version": "1.0.0",
+  "description": "A simple todo app made with react.js and firebase realtime database and authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roon83/todo-react-firebase.git"
+  },
+  "keywords": [
+    "todo",
+    "react",
+    "firebase",
+    "realtimedatabase",
+    "authentication"
+  ],
+  "author": "Ghulam Ahmed Lasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roon83/todo-react-firebase/issues"
+  },
+  "homepage": "https://github.com/roon83/todo-react-firebase#readme"
+}
